@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 6\compositeItemProcessor"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 6\itemValidation"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 6\filteringItemProcessor"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 6\itemProcessorInterface\src\main\java\io\spring\batch\configuration\JobConfiguration.java"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 6\itemProcessorInterface"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 5\xmlFileOutput"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 5\flatFileOutput"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 5\itemWriter"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 5\databaseOutput\src\main\java\io\spring\batch\configuration"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 5\databaseOutput"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 4\itemStream"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 4\multipleFlatFiles"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 4\readingXML"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 4\flatFiles"/>
+			<item value="C:\Users\CeachiBogdan\eclipse-workspace-springBatch\Chapter 4\databaseInput"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

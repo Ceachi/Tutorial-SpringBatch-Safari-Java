@@ -1,0 +1,6 @@
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/domain/Customer.java
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/RemotePartitioningApplication.java
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/configuration/IntegrationConfiguration.java
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/domain/CustomerRowMapper.java
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/configuration/JobConfiguration.java
+/Users/mminella/Documents/IntelliJWorkspace/LearningSpringBatch/src/remotePartitioning/src/main/java/io/spring/batch/domain/ColumnRangePartitioner.java

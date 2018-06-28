@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;transitions&apos;&#x0D;&#x0A;- Original project: &apos;transitions&apos;&#x0D;&#x0A;- Original element: &apos;transitions/src/main/java/io.spring.batch.configuration.io.spring.batch.configuration&apos;" description="Delete element" element1="/src\/main\/java&lt;io.spring.batch.configuration.io.spring.batch.configuration" element2="/src\/main\/java&lt;io.spring.batch.configuration.io.spring.batch" element3="/src\/main\/java&lt;io.spring.batch.configuration.io.spring" element4="/src\/main\/java&lt;io.spring.batch.configuration.io" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1529994469478" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+io/spring/batch/RemotePartitioningApplication.class
+io/spring/batch/domain/ColumnRangePartitioner.class
+io/spring/batch/configuration/JobConfiguration.class
+io/spring/batch/domain/CustomerRowMapper.class
+io/spring/batch/configuration/IntegrationConfiguration.class
+io/spring/batch/domain/Customer.class
